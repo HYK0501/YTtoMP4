@@ -1,0 +1,9 @@
+volumes/db/data
+volumes/storage
+.env
+test.http
+docker-compose.override.yml
+.idea
+.log
+__pycache__
+uv.lock
