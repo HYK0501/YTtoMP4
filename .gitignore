@@ -7,3 +7,5 @@ docker-compose.override.yml
 .log
 __pycache__
 uv.lock
+.mp4
+downloads
